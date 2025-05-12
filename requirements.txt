@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain_community
+bs4
+faiss-cpu
+langchain-ollama
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+langchain_groq
