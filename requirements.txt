@@ -15,3 +15,4 @@ langchain_huggingface
 langchain_groq
 langgraph
 ipython
+langgraph-cli[inmem]
