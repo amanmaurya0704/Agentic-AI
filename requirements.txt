@@ -16,3 +16,4 @@ langchain_groq
 langgraph
 ipython
 langgraph-cli[inmem]
+langchain-google-genai
