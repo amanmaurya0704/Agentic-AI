@@ -17,3 +17,5 @@ langgraph
 ipython
 langgraph-cli[inmem]
 langchain-google-genai
+agno
+langchain-ollama
