@@ -19,3 +19,4 @@ langgraph-cli[inmem]
 langchain-google-genai
 agno
 langchain-ollama
+duckduckgo-search
