@@ -20,3 +20,10 @@ langchain-google-genai
 agno
 langchain-ollama
 duckduckgo-search
+pypdf
+lancedb
+tantivy
+yfinance
+sqlalchemy
+fastapi[standardS]
+newspaper4k
