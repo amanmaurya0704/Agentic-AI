@@ -26,4 +26,4 @@ tantivy
 yfinance
 sqlalchemy
 fastapi[standardS]
-newspaper4k
+crewai
