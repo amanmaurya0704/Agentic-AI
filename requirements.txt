@@ -27,3 +27,7 @@ yfinance
 sqlalchemy
 fastapi[standardS]
 crewai
+autogen-agentchat
+asyncio
+autogen-ext[ollama]
+autogen-ext[openai]
