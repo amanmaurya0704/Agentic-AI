@@ -1,2 +1,4 @@
-venvgenai
+venv
 .env
+.idx
+.vscode
