@@ -31,3 +31,4 @@ autogen-agentchat
 asyncio
 autogen-ext[ollama]
 autogen-ext[openai]
+autogen-ext[langchain]
