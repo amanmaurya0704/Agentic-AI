@@ -32,3 +32,5 @@ asyncio
 autogen-ext[ollama]
 autogen-ext[openai]
 autogen-ext[langchain]
+autogen-core
+autogenstudio==0.4.2.2
